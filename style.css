@@ -1,0 +1,50 @@
+body{
+    background-image: url(listadetarefas.jpg);
+}
+
+main {
+
+
+}
+
+.form-control{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.headerp{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.cinza {
+    background-color: gray;
+}
+
+.tarefas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.completed {
+    text-decoration: line-through;
+    
+}
+
+.tbotaos{
+    display: flex;
+    justify-content: center;
+}
+
+#criar-tarefa{
+    margin: 10px 10px 10px 10px ;
+}
+
+#apaga-tudo{
+    margin: 10px 10px 10px 10px ;
+}
+
+#remover-finalizados{
+    margin: 10px 10px 10px 10px ;
+}
